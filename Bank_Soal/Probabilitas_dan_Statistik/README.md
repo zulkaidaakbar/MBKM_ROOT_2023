@@ -17,4 +17,16 @@ Probability distribution - Poisson distribution:
 Bayesian statistics:
 
 9. Kita pernah menerapkan aplikasi bayesian statistics di kelas terkait identifikasi Muon-Pion. Sekarang kita akan menerapkan untuk identifikasi Covid. Diketahui bahwa saat ini probabilitas orang terkena covid adalah 0.1%. Juga diketahui bahwa dari 100 orang yang betul-betul terkena covid, ada dua yang test nya negative (false identification). Serta diketahui juga dari 100 orang yang betul-betul sehat, ada dua yang test nya positive (juga false identification). Jika anda didiagnosis terkena covid, berapa probabilitas bahwa anda betul-betul sakit covid?
-10. 
+
+Averaging measurement - Hypotesis testing in Proton Radius Puzzle:
+
+10. Terdapat 3 data pengukuran protod radius in femto meter: 0.84184 ± 0.00067 , 0.8750 ± 0.0068, dan 0.8414 ± 0.0019. Apakah pengukuran2 tersebut konsisten? Berapa sigma perbedaannya? Kalian boleh menggunakan ROOT code untuk menghitung nilai sigma nya
+
+Fitting with Minuit
+
+11. Selesaikan codingan dan fitting untuk Muon Spectroscopy data. Plot hasilnya. Percantik plot nya dengan proper labelling (x-axis, y-axis, title dll). Lalu tulis hasil fit parameternya
+
+Mass reconstruction and Fitting with ROOT
+
+12. Kalian telah belajar rekonstruksi massa omega messon dan Kaon-Sigma dengan menggunakan ROOT serta melakukan fitting signal dan background dengan menggunakan ROOT. Buat codingan di ROOT untuk mengestimasi jumlah signal omega dan kaon!
+
