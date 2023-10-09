@@ -16,7 +16,7 @@ Probability distribution - Poisson distribution:
 
 Bayesian statistics:
 
-9. Kita pernah menerapkan aplikasi bayesian statistics di kelas terkait identifikasi Muon-Pion. Sekarang kita akan menerapkan untuk identifikasi Covid. Diketahui bahwa saat ini probabilitas orang terkena covid adalah 0.1%. Juga diketahui bahwa dari 100 orang yang betul-betul terkena covid, ada dua yang test nya negative (false identification). Serta diketahui juga dari 100 orang yang betul-betul sehat, ada dua yang test nya positive (juga false identification). Jika anda didiagnosis terkena covid, berapa probabilitas bahwa anda betul-betul sakit covid?
+9. Kita pernah menerapkan aplikasi bayesian statistics di kelas terkait identifikasi Muon-Pion. Sekarang kita akan menerapkan untuk identifikasi Covid. Diketahui bahwa saat ini probabilitas orang terkena covid adalah 0.1%. Juga diketahui bahwa dari 100 orang yang betul-betul terkena covid, ada dua yang test nya negative (false identification). Serta diketahui juga dari 100 orang yang betul-betul sehat, ada tiga yang test nya positive (juga false identification). Jika anda didiagnosis terkena covid, berapa probabilitas bahwa anda betul-betul sakit covid?
 
 Averaging measurement - Hypotesis testing in Proton Radius Puzzle:
 
