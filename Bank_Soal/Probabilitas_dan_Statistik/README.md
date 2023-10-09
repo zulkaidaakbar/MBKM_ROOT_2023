@@ -7,8 +7,13 @@ Probability Distribution Function - Gaussian:
 Probability Distribution Function - Binomial distribution:
 
 5. Alkisah berkumpul 5 orang penjudi dan 1 orang bandar. Si Bandar menantang: Aku kasih dua buah dadu, masing-masing dari kalian lempar dua dadu itu satu kali. Jika dua orang diantara kalian mengeluarkan dua dadu dengan jumlah angka = 5 (dari dua dadu tersebut), maka kalian menang. Jika tidak, maka saya kalah. Berapa probabilitas bandar akan menang?
-6. Omega meluruh menjadi 3 pion dengan branching ratio ~0.9 dan meluruh menjadi pion-gamma dengan branching ratio ~0.1.Suatu experiment merecord 20 event omega decay. Berapa probabilitas bahwa 5 event dari keseluruhan omega decay event adalah omega meluruh menjadi pion-gamma?
+6. Omega meson meluruh menjadi 3 pion dengan branching ratio ~0.9 dan meluruh menjadi pion-gamma dengan branching ratio ~0.1.Suatu experiment merecord 20 event omega decay. Berapa probabilitas bahwa 5 event dari keseluruhan omega decay event adalah omega meluruh menjadi pion-gamma?
 
 Probability distribution - Poisson distribution:
 
-7.  
+7. Poisson distribution pertama kali dipakai tahun 1800an oleh Ladislaus Bortkiewicz ketika mengumpulkan data pasukan prusia yang meniggal karena kecelakaan ditendang kuda. Dia menemukan bahwa rata-rata ada 0.6 prajurit yang mati per tahun karena ditendang kuda. Berapa probabilitas ada 3 prajurit yang meninggal dalam satu tahun karena ditendang kuda?
+8. Diketahui bahwa suatu "rare decay events" rata-rata teramati sebanyak 3 events per experimental run. Berapa run yang harus dilakukan jika expectacy nya kita akan mengamati 5 events dalam satu run?
+
+Bayesian statistics:
+
+9. Kita pernah menerapkan aplikasi bayesian statistics di kelas terkait identifikasi Muon-Pion. Sekarang kita akan menerapkan untuk identifikasi Covid. Diketahui bahwa probabi
