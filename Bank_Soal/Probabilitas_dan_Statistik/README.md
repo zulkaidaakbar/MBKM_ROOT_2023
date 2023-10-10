@@ -30,3 +30,7 @@ Mass reconstruction and Fitting with ROOT
 
 12. Kalian telah belajar rekonstruksi massa omega messon dan Kaon-Sigma dengan menggunakan ROOT serta melakukan fitting signal dan background dengan menggunakan ROOT. Buat codingan di ROOT untuk mengestimasi jumlah signal omega dan kaon!
 
+Maximum Likelihood
+
+13. Apakah formula rata-rata untuk meng-quote hasil pengukuran masih berlaku untuk sistem fisis dengan distribusi poisson? Buktikan dengan prinsip Maximum Likelihood
+
