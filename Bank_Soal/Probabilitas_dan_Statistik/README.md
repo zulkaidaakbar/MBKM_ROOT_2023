@@ -34,3 +34,4 @@ Maximum Likelihood
 
 13. Apakah formula rata-rata untuk meng-quote hasil pengukuran masih berlaku untuk sistem fisis dengan distribusi poisson? Buktikan dengan prinsip Maximum Likelihood
 
+14. Jika dalam n trial sebuah experiment mencatat x sukses, buktikan dengan prinsip maximum likelihood pada binomial distribution bahwa probabilitas sukses p adalah sesederhana x/n 
